@@ -4,8 +4,8 @@ Me and my friend have this way of playing Magic the Gathering by defining the ma
 
 ## Planned features:
 
-<ol>
+<ul>
 <li>A deck builder</li>
 <li>An environment to test decks</li>
 <li>Possibility to play against each other with the build deck (however, not implementing the rules)</li>
-</ol>
+</ul>
